@@ -9,7 +9,7 @@
 
   <div align="center">
     <br>
-    <img alt="snake eating my contributions" src="https://ennibr.github.io/EnniBr/github-contribution-grid-snake.svg" />
+    <img alt="snake eating my contributions" srcset="github-contribution-grid-snake.svg" />
     <br/>
   </div>
 
