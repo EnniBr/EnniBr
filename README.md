@@ -8,9 +8,11 @@
 - 👨🏽‍💻 Atualmente focado em aprender Java.
 
   <div align="center">
-    <br>
-    <img alt="snake eating my contributions" srcset="github-contribution-grid-snake.svg" />
-    <br/>
+    <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+    <img alt="github-snake" src="github-snake.svg" />
+    </picture>
   </div>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
