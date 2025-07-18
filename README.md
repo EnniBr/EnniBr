@@ -9,11 +9,11 @@
 
   <div align="center">
     <br>
-    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/EnniBr/EnniBr/output/github-contribution-grid-snake.gif" />
+    <img alt="snake eating my contributions" src="https://ennibr.github.io/EnniBr/github-contribution-grid-snake.gif" />
     <br/>
   </div>
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://ennibr.github.io/EnniBr/github-contribution-grid-snake.gif"></a>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <h2>🔥| Minha Sequência de Contribuições</h2>
 <p align="center">
