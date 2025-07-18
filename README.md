@@ -13,7 +13,7 @@
     <br/>
   </div>
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://ennibr.github.io/github-contribution-grid-snake.gif"></a>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://ennibr.github.io/EnniBr/github-contribution-grid-snake.gif"></a>
 
 <h2>🔥| Minha Sequência de Contribuições</h2>
 <p align="center">
