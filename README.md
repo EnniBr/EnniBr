@@ -8,13 +8,9 @@
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<h2>⭐ | Github Status </h2>
+<h2>⭐ | Projeto Atual
 
-<div align="center">
-<a href="https://github.com/EnniBr">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=marques&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marques&layout=compact&langs_count=7&theme=tokyonight"/></a>
-</div>
+Sistema de RPG: https://projeto-rpg-tan.vercel.app/
 
 <h2>🛠️ | Linguagens, Frameworks e Ferramentas </h2>
 <table>
