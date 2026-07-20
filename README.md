@@ -8,11 +8,6 @@
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<h2>🔥| Minha Sequência de Contribuições</h2>
-<p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=EnniBr&theme=tokyonight" alt="GitHub Streak" /></a>
-</p>
-
 <h2>⭐ | Github Status </h2>
 
 <div align="center">
