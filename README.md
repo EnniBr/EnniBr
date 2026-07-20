@@ -5,7 +5,6 @@
 - 🏢 À Procura da Primeira Oportunidade;
 - 🎓 Técnico em Informática para Internet e Estudante de Ciência e Tecnologia na [UFABC;]([https://faculdadesapiens.edu.br/](https://prograd.ufabc.edu.br/))
 - 💻 Desenvolvedor Back-End;
-- 👨🏽‍💻 Atualmente focado em aprender Java.
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
